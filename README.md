@@ -1,1 +1,3 @@
 # JajanKuy
+
+First update
